@@ -1,0 +1,13 @@
+// Roadmap (core/sections/_roadmap.scss) -----------------------
+$roadmap--padding-t__mobile:		null;		// roadmap, top padding (mobile)
+$roadmap--padding-b__mobile: 		null;		// roadmap, bottom padding (mobile)
+$roadmap--padding-t__desktop: 		null;		// roadmap, top padding (desktop)
+$roadmap--padding-b__desktop: 		null;		// roadmap, bottom padding (desktop)
+$roadmap-header--padding__mobile: 	null;		// roadmap header, bottom padding (mobile)
+$roadmap-header--padding__desktop:	null;		// roadmap header, bottom padding (desktop)
+$roadmap-items--padding__mobile: 	null;		// padding between roadmap items (mobile)
+$roadmap-items--padding__desktop: 	null;		// padding between roadmap items (desktop)
+$roadmap-item--width: 				344px;		// roadmap item, width
+$roadmap-item--inner-padding-v: 	24px;		// roadmap item, inner top and bottom padding (it inherits $tiles-item--inner-padding-v unless you replace null with a new value)
+$roadmap-item--inner-padding-h: 	24px;		// roadmap item, inner left and right padding (it inherits $tiles-item--inner-padding-h unless you replace null with a new value)
+$roadmap-slider--max-w:             320px;      // roadmap slider, max-width

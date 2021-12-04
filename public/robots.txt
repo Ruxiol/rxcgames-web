@@ -1,0 +1,3 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+RXCGames 2021 all rights reserved

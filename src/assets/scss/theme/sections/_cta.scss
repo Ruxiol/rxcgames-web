@@ -1,0 +1,13 @@
+.cta-inner {
+	padding-left: 16px;
+	padding-right: 16px;
+    background-color: #4A61DD;
+}
+
+@include media( '>medium' ) {
+
+	.cta-inner {
+		padding-left: 48px;
+		padding-right: 48px;
+	}
+}
