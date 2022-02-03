@@ -134,7 +134,8 @@ class Roadmap extends React.Component {
                         <li className="is-checked">CG & CMC listing</li>
                         <li className="is-checked">RXCGames Casino Alpha</li>
                         <li>RXCGames Casino Beta</li>
-                        <li>Communities on more languages </li>
+                        <li className="is-checked">Communities on more languages</li>
+                        <li> </li>
                       </ul>
                     </div>
                   </div>
