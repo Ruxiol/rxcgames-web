@@ -56,6 +56,7 @@ class HeroFull extends React.Component {
                 <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
                   • RXC Games •
                 </p>
+<script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script><div class="coinmarketcap-currency-widget" data-currencyid="15275" data-base="USD" data-secondary="" data-ticker="true" data-rank="false" data-marketcap="false" data-volume="false" data-statsticker="true" data-stats="USD"></div>    
                 <div className="cta">
                   <Button className="btn-play" tag="a" color="primary" wideMobile href="https://app.rxcgames.com/">
                     Play
