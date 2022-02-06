@@ -139,10 +139,10 @@ class Header extends React.Component {
                         className="list-reset header-nav-right"
                       >
                         <li>
-                          <DomLink to={{ pathname: "https://dexscreener.com/bsc/0xeb6cf41b391e21d38a926b4abf6bcefce833fa82" }} target="_blank" className="button button-primary button-wide-mobile button-sm" onClick={this.closeMenu}>$RXCG Token</DomLink>
+                          <DomLink to={{ pathname: "https://dexscreener.com/bsc/0xeb6cf41b391e21d38a926b4abf6bcefce833fa82" }} target="_blank" className="button button-primary button-wide-mobile button-sm" onClick={this.closeMenu}>RXCG BSC</DomLink>
                         </li>
                         <li>
-                          <DomLink to={{ pathname: "https://app.rxcgames.com/" }} target="_blank" className="button button-primary button-wide-mobile button-sm" onClick={this.closeMenu}>Play</DomLink>
+                          <DomLink to={{ pathname: "https://stake.rxcgames.com/" }} target="_blank" className="button button-primary button-wide-mobile button-sm" onClick={this.closeMenu}>Stake</DomLink>
                         </li>
                       </ul>}
                   </div>
