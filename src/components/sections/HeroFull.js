@@ -66,15 +66,6 @@ class HeroFull extends React.Component {
                 </div>
               </div>
                   <div className="pt-16 pl-8 pr-24 cursor-pointer">
-                    <a target="_blank" href="https://coinmarketcap.com/currencies/rxcgames/">
-                      <Image
-                        src={require('./../../assets/images/links/CoinMarketCap.svg')}
-                        alt="Coinmarketcap RXCG"
-                        width={58}
-                        height={58} />
-                    </a>
-                  </div>
-                  <div className="pt-16 pl-8 pr-24 cursor-pointer">
                     <a target="_blank" href="https://t.me/rxcgames">
                       <Image
                         src={require('./../../assets/images/links/telegram.svg')}
