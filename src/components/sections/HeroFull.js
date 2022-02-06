@@ -103,17 +103,17 @@ class HeroFull extends React.Component {
                         height={38} />
                     </a>
                   </div>
-                  <div className="pt-16 pl-8 pr-24 cursor-pointer">
-                    <a target="_blank" href="https://www.xt.com/tradePro/rxcg_usdt">
-                      <Image
-                        src={require('./../../assets/images/links/xtrxcg.svg')}
-                        alt="RXCG/USDT XT.com"
-                        width={100}
-                        height={45} />
-                    </a>
-                  </div>
                 </div>
               </div>
+            </div>
+            <div className="pt-16 pl-8 pr-24 cursor-pointer">
+              <a target="_blank" href="https://www.xt.com/tradePro/rxcg_usdt">
+                <Image
+                  src={require('./../../assets/images/links/xtrxcg.svg')}
+                  alt="RXCG/USDT XT.com"
+                  width={100}
+                  height={45} />
+              </a>
             </div>
             <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
               <Image
