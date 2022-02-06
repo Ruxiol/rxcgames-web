@@ -51,8 +51,8 @@ class HeroFull extends React.Component {
                 <Image
                   src={require('./../../assets/images/links/xtrxcg.svg')}
                   alt="RXCG/USDT XT.com"
-                  width={38}
-                  height={38} />
+                  width={150}
+                  height={150} />
               </a>
             </div>  
         <div className="container-sm">
