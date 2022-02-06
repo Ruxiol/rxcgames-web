@@ -47,12 +47,12 @@ class HeroFull extends React.Component {
         className={outerClasses}
       >
             <div className="pt-16 pl-8 pr-24 cursor-pointer">
-              <a target="_blank" href="https://www.xt.com/tradePro/rxcg_usdt">
+              <a target="_blank" href="https://xtsupport.zendesk.com/hc/en-us/articles/4416999083673-XT-Will-List-RXCG-RXCGAMES-">
                 <Image
                   src={require('./../../assets/images/links/xtrxcg.svg')}
                   alt="RXCG/USDT XT.com"
-                  width={100}
-                  height={60} />
+                  width={38}
+                  height={38} />
               </a>
             </div>  
         <div className="container-sm">
