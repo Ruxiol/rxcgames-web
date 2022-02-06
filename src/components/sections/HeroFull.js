@@ -105,15 +105,6 @@ class HeroFull extends React.Component {
                   </div>
                     </a>
                   </div>
-                  <div className="pt-16 pl-8 pr-24 cursor-pointer">
-                    <a target="_blank" href="https://xt.com">
-                      <Image
-                        src={require('./../../assets/images/links/xtrxcg.svg')}
-                        alt="RXCG/USDT XT.com"
-                        width={38}
-                        height={38} />
-                    </a>
-                  </div>
                 </div>
               </div>
             </div>
