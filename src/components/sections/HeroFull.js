@@ -46,15 +46,6 @@ class HeroFull extends React.Component {
         {...props}
         className={outerClasses}
       >
-            <div className="pt-16 pl-8 pr-24 cursor-pointer">
-              <a target="_blank" href="https://xtsupport.zendesk.com/hc/en-us/articles/4416999083673-XT-Will-List-RXCG-RXCGAMES-">
-                <Image
-                  src={require('./../../assets/images/links/xtrxcg.svg')}
-                  alt="RXCG/USDT XT.com"
-                  width={150}
-                  height={150} />
-              </a>
-            </div>  
         <div className="container-sm">
           <div className={innerClasses}>
             <div className="hero-content">
@@ -94,6 +85,15 @@ class HeroFull extends React.Component {
                         height={38} />
                     </a>
                   </div>
+                  <div className="pt-16 pl-8 pr-24 cursor-pointer">
+                    <a target="_blank" href="https://xtsupport.zendesk.com/hc/en-us/articles/4416999083673-XT-Will-List-RXCG-RXCGAMES-">
+                      <Image
+                        src={require('./../../assets/images/links/xtrxcg.svg')}
+                        alt="RXCG/USDT XT.com"
+                        width={50}
+                        height={50} />
+                    </a>
+                  </div>  
                   <div className="pt-16 pl-8 pr-24 cursor-pointer">
                     <a target="_blank" href="https://pancakeswap.finance/swap?outputCurrency=0x7c59a57fc16eac270421b74615c4bc009ecd486d">
                       <Image
