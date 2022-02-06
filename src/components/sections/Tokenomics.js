@@ -111,7 +111,7 @@ class Tokenomics extends React.Component {
     );
 
     const sectionHeader = {
-      title: 'Tokenomics',
+      title: 'RXCG Tokenomics',
     };
 
     return (
