@@ -63,9 +63,6 @@ class HeroFull extends React.Component {
                   <Button className="btn-whitepaper" tag="a" color="primary" wideMobile href={require("./../../assets/RXCG.pdf")} download="RXCG Whitepaper">
                     Whitepaper
                   </Button>
-                  <Button className="btn-play" tag="a" color="primary" wideMobile href="https://stake.rxcgames.com/">
-                    Stake
-                  </Button>                                                                                            
                 </div>
               </div>
               <div className="container-sm pt-24 reveal-from-bottom">
