@@ -99,8 +99,8 @@ class HeroFull extends React.Component {
                       <Image
                         src={require('./../../assets/images/links/pcs.svg')}
                         alt="RXCG PCS"
-                        width={38}
-                        height={38} />
+                        width={80}
+                        height={80} />
                     </a>
                   </div>
                   <div className="pt-16 pl-8 pr-24 cursor-pointer">
