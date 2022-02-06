@@ -68,28 +68,10 @@ class HeroFull extends React.Component {
               <div className="container-sm pt-24 reveal-from-bottom">
                 <div style={{ display: 'flex', justifyContent: 'center' }}>
                   <div className="pt-16 pl-8 pr-24 cursor-pointer">
-                    <a target="_blank" href="https://t.me/rxcgames">
+                    <a target="_blank" href="https://coinmarketcap.com/currencies/rxcgames/">
                       <Image
-                        src={require('./../../assets/images/links/telegram.svg')}
-                        alt="RXCG Telegram"
-                        width={38}
-                        height={38} />
-                    </a>
-                  </div>
-                  <div className="pt-16 pl-8 pr-24 cursor-pointer">
-                    <a target="_blank" href="https://t.me/rxcgames">
-                      <Image
-                        src={require('./../../assets/images/links/telegram.svg')}
-                        alt="RXCG Telegram"
-                        width={38}
-                        height={38} />
-                    </a>
-                  </div>
-                  <div className="pt-16 pl-8 pr-24 cursor-pointer">
-                    <a target="_blank" href="https://t.me/rxcgames">
-                      <Image
-                        src={require('./../../assets/images/links/telegram.svg')}
-                        alt="RXCG Telegram"
+                        src={require('./../../assets/images/links/CoinMarketCap.svg')}
+                        alt="Coinmarketcap RXCG"
                         width={38}
                         height={38} />
                     </a>
