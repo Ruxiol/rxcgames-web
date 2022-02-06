@@ -58,7 +58,7 @@ class HeroFull extends React.Component {
                 </p>
                 <div className="cta">
                   <Button className="btn-play" tag="a" color="primary" wideMobile href="https://app.rxcgames.com/">
-                    Play (Alpha)
+                    Play
                   </Button>
                   <Button className="btn-whitepaper" tag="a" color="primary" wideMobile href={require("./../../assets/RXCG.pdf")} download="RXCG Whitepaper">
                     Whitepaper
@@ -99,6 +99,17 @@ class HeroFull extends React.Component {
                       <Image
                         src={require('./../../assets/images/links/poocoin.svg')}
                         alt="RXCG Poocoin"
+                        width={38}
+                        height={38} />
+                    </a>
+                  </div>
+                    </a>
+                  </div>
+                  <div className="pt-16 pl-8 pr-24 cursor-pointer">
+                    <a target="_blank" href="https://xt.com">
+                      <Image
+                        src={require('./../../assets/images/links/xtrxcg.svg')}
+                        alt="RXCG/USDT XT.com"
                         width={38}
                         height={38} />
                     </a>
