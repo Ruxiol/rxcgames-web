@@ -142,7 +142,7 @@ class Header extends React.Component {
                           <DomLink to={{ pathname: "https://dexscreener.com/bsc/0xeb6cf41b391e21d38a926b4abf6bcefce833fa82" }} target="_blank" className="button button-primary button-wide-mobile button-sm" onClick={this.closeMenu}>$RXCG Token</DomLink>
                         </li>
                         <li>
-                          <DomLink to={{ pathname: "https://app.rxcgames.com/" }} target="_blank" className="button button-primary button-wide-mobile button-sm" onClick={this.closeMenu}>Play (Alpha)</DomLink>
+                          <DomLink to={{ pathname: "https://app.rxcgames.com/" }} target="_blank" className="button button-primary button-wide-mobile button-sm" onClick={this.closeMenu}>Play</DomLink>
                         </li>
                       </ul>}
                   </div>
