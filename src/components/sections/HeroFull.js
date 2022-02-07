@@ -65,6 +65,8 @@ class HeroFull extends React.Component {
                   </Button>
                 </div>
               </div>
+              <div className="container-sm pt-24 reveal-from-bottom">
+                <div style={{ display: 'flex', justifyContent: 'center' }}>
                   <div className="pt-16 pl-8 pr-24 cursor-pointer">
                     <a target="_blank" href="https://t.me/rxcgames">
                       <Image
