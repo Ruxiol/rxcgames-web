@@ -157,7 +157,7 @@ class Roadmap extends React.Component {
                         <li>Staking platform</li>
                         <li className="is-checked">CEX listings</li>
                         <li>Partnerships</li>
-                        <li>Discord community</li>
+                        <li className="is-checked">Discord community</li>
                       </ul>
                     </div>
                   </div>
