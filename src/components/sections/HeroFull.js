@@ -86,7 +86,7 @@ class HeroFull extends React.Component {
                     </a>
                   </div>
                   <div className="pt-16 pl-8 pr-24 cursor-pointer">
-                    <a target="_blank" href="https://xtsupport.zendesk.com/hc/en-us/articles/4416999083673-XT-Will-List-RXCG-RXCGAMES-">
+                    <a target="_blank" href="https://www.xt.com/tradePro/rxcg_usdt">
                       <Image
                         src={require('./../../assets/images/links/xtlogo.png')}
                         alt="RXCG/USDT XT.com"
