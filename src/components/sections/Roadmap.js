@@ -152,12 +152,13 @@ class Roadmap extends React.Component {
                     </div>
                     <div className="roadmap-item-features mb-40">
                       <ul className="roadmap-item-features-list list-reset text-xs mb-32">
-                        <li>RXCGames Casino Beta</li>                      
+                        <li className="is-checked">CEX listings</li>
+                        <li className="is-checked">Discord community</li>
+                        <li className="is-checked">Inhouse Poker system</li>
+                        <li>RXCGames Casino Beta</li>                     
                         <li>In-Casino swap</li>
                         <li>Staking platform</li>
-                        <li className="is-checked">CEX listings</li>
                         <li>Partnerships</li>
-                        <li className="is-checked">Discord community</li>
                       </ul>
                     </div>
                   </div>
