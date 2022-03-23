@@ -133,10 +133,10 @@ class Team extends React.Component {
                     </p>
                   </div>
                   <div className="pt-16">
-                    <a href="https://www.linkedin.com/in/nedzad-smajic-b792095b/" target="_blank">
+                    <a href="https://t.me/CryptobaRux/" target="_blank">
                       <Image
-                        src={require('./../../assets/images/linkedin.png')}
-                        alt="Rux Crypto Linkedin"
+                        src={require('./../../assets/images/links/telegram.svg')}
+                        alt="Rux Crypto Telegram"
                         width={38}
                         height={38} />
                     </a>
