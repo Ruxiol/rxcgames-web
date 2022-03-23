@@ -60,8 +60,8 @@ class HeroFull extends React.Component {
                   <Button className="btn-play" tag="a" color="primary" wideMobile href="https://app.rxcgames.com/">
                     Play
                   </Button>
-                  <Button className="btn-whitepaper" tag="a" color="primary" wideMobile href={require("https://stake.rxcgames.com/")} download="RXCG Staking">
-                    Stake RXCG
+                  <Button className="btn-whitepaper" tag="a" color="primary" wideMobile href={require("./../../assets/RXCG.pdf")} download="RXCG Whitepaper">
+                    Whitepaper
                   </Button>
                 </div>
               </div>
