@@ -177,7 +177,9 @@ class Roadmap extends React.Component {
                     </div>
                     <div className="roadmap-item-features mb-40">
                       <ul className="roadmap-item-features-list list-reset text-xs mb-32">
+                        <li>Social Media Marketing</li>
                         <li>Governance Forum set up</li>
+                        <li>CEX Listings</li>
                         <li>Set up for DAO community</li>
                         <li>DAO community</li>
                       </ul>
