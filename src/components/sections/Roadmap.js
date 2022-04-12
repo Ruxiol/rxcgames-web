@@ -156,8 +156,8 @@ class Roadmap extends React.Component {
                         <li className="is-checked">Discord community</li>
                         <li className="is-checked">Inhouse Poker system</li>
                         <li className="is-checked">Staking Smart Contract</li>
+                        <li className="is-checked">2Way Swap Coin to Token.</li>
                         <li>RXCGames Casino Beta</li>                     
-                        <li>In-Casino swap</li>
                         <li>Partnerships</li>
                       </ul>
                     </div>
