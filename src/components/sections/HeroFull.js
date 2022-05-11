@@ -120,6 +120,9 @@ class HeroFull extends React.Component {
               </div>
             </div>
             <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
+            <p className="m-0 text-sm">
+            RXC Games Whitepaper <a className="no-underline" href={require("./../../assets/RXCGWhitepaper.pdf")} download="RXCG Whitepaper">here</a>
+            </p>              
               <Image
                 className="has-shadow"
                 src={require('./../../assets/images/hero-image.png')}
@@ -127,9 +130,6 @@ class HeroFull extends React.Component {
                 width={896}
                 height={504} />
             </div>
-            <p className="m-0 text-sm">
-            RXC Games Whitepaper <a className="no-underline" href={require("./../../assets/RXCGWhitepaper.pdf")} download="RXCG Whitepaper">here</a>
-            </p>
           </div>
         </div>
       </section>
