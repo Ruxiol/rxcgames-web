@@ -115,27 +115,7 @@ class HeroFull extends React.Component {
                         height={38} />
                     </a>
                   </div>
-              <div className="tiles-item reveal-from-bottom">
-                <div className="tiles-item-inner">
-                  <div className="features-tiles-item-header">
-                    <div className="features-tiles-item-image mb-16">
-                      <Image
-                        src={require('./../../assets/images/audit.svg')}
-                        alt="Whitepaper"
-                        width={40}
-                        height={40} />
-                    </div>
-                  </div>
-                  <div className="features-tiles-item-content">
-                    <h4 className="mt-0 mb-8">
-                      Audit
-                    </h4>
-                    <p className="m-0 text-sm">
-                      Check our Whitepaper <a className="no-underline" href={require("./../../assets/RXCGWhitepaper.pdf")} download="RXCG Whitepaper">here</a>
-                    </p>
-                  </div>
-                </div>
-              </div>
+                  
                 </div>
               </div>
             </div>
