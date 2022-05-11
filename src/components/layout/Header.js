@@ -141,9 +141,6 @@ class Header extends React.Component {
                         <li>
                           <DomLink to={{ pathname: "https://dexscreener.com/bsc/0xeb6cf41b391e21d38a926b4abf6bcefce833fa82" }} target="_blank" className="button button-primary button-wide-mobile button-sm" onClick={this.closeMenu}>DEX Screener</DomLink>
                         </li>
-                        <li>
-                          <DomLink to={{ pathname: "./../../assets/RXCGWhitepaper.pdf")" }} target="_blank" className="button button-primary button-wide-mobile button-sm" onClick={this.closeMenu}>Whitepaper</DomLink>
-                        </li>                        
                       </ul>}
                   </div>
                 </nav>
