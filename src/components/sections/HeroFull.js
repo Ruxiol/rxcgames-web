@@ -129,12 +129,6 @@ class HeroFull extends React.Component {
             <p className="m-0 text-sm">
             <a className="no-underline" href={require("./../../assets/RXCGWhitepaper.pdf")} download="RXCG Whitepaper">RXC Games Whitepaper</a>
             </p>              
-              <Image
-                className="has-shadow"
-                src={require('./../../assets/images/1.png')}
-                alt="RXCG Platform"
-                width={896}
-                height={504} />
             </div>
           </div>
         </div>
