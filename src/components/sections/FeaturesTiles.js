@@ -103,7 +103,7 @@ class FeaturesTiles extends React.Component {
                     </h4>
                     <p className="m-0 text-sm">
                       Play 4000+ games on our platform - Provably fair and fun to play!
-                      Use your RXCG tokens to play, stake, swap to core Blocchain tech.
+                      Use your RXCG tokens to play, stake, swap.
                     </p>
                   </div>
                 </div>
