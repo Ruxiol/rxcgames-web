@@ -27,9 +27,6 @@ const FooterSocial = ({
             <a target="_blank" href="https://nowpayments.io/supported-coins/rxcg-payments">
               Nowpayments
             </a>
-            <Button className="btn-play" tag="a" color="primary" wideMobile href="https://rxcgames.com/">
-              Poker
-            </Button>
           </div>
         </div>
       </div>
