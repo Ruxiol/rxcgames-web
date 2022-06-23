@@ -34,8 +34,8 @@ const FooterSocial = ({
               <Image
                 src={require('./../../../assets/images/chainplay-logo.svg')}
                 alt="RXCG Chainplay"
-                width={38}
-                height={38} />
+                width={48}
+                height={48} />
             </a>
           </div>
           <div className="pt-16 pl-8 pr-24 cursor-pointer">
