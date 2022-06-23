@@ -131,10 +131,11 @@ class HeroFull extends React.Component {
             </p>              
               <Image
                 className="has-shadow"
-                src={require('./../../assets/images/4.jpg')}
+                src={require('./../../assets/images/5.png')}
                 alt="RXCG Casino"
                 width={896}
                 height={504} />
+              POKER Module
               <Image
                 className="has-shadow"
                 src={require('./../../assets/images/3.jpg')}
