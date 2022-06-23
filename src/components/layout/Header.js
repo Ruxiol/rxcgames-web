@@ -139,6 +139,9 @@ class Header extends React.Component {
                         className="list-reset header-nav-right"
                       >
                         <li>
+                          <DomLink to={{ pathname: "https://pancakeswap.finance/swap?outputCurrency=0x7c59a57fc16eac270421b74615c4bc009ecd486d" }} target="_blank" className="button button-primary button-wide-mobile button-sm" onClick={this.closeMenu}>DEX</DomLink>
+                        </li>                                                
+                        <li>
                           <DomLink to={{ pathname: "https://www.xt.com/tradePro/rxcg_usdt" }} target="_blank" className="button button-primary button-wide-mobile button-sm" onClick={this.closeMenu}>CEX</DomLink>
                         </li>                        
                         <li>
