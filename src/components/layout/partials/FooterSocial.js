@@ -25,8 +25,8 @@ const FooterSocial = ({
               <Image
                 src={require('./../../../assets/images/chainplay-logo.svg')}
                 alt="RXCG Chainplay"
-                width={338}
-                height={138} />
+                width={58}
+                height={58} />
             </a>
           </div>
         </div>
