@@ -125,7 +125,7 @@ class HeroFull extends React.Component {
                 </div>
               </div>
             </div>
-            
+            <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
             <p className="m-0 text-sm">
             <a className="no-underline" href={require("./../../assets/RXCGWhitepaper.pdf")} download="RXCG Whitepaper">RXC Games Whitepaper</a>
             </p>              
