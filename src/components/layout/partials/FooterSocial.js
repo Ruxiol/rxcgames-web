@@ -30,12 +30,7 @@ const FooterSocial = ({
                 height={58} />
             </a>
             <a target="_blank" href="https://nowpayments.io/supported-coins/rxcg-payments">
-              <Image
-                Nowpayments
-                src={require('./../../../assets/images/chainplay-logo.svg')}
-                alt="RXCG Chainplay"
-                width={58}
-                height={58} />
+              Nowpayments
             </a>
           </div>
         </div>
