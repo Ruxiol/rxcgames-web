@@ -99,11 +99,11 @@ class FeaturesTiles extends React.Component {
                   </div>
                   <div className="features-tiles-item-content">
                     <h4 className="mt-0 mb-8">
-                      Play and Earn
+                      Play, Stake and Earn
                     </h4>
                     <p className="m-0 text-sm">
-                      Play 4000+ games on our platform - all fully licensed and fun to play!
-                      Simply buy $RXCG, deposit it on RXCGames, and you're ready to roll.
+                      Play 4000+ games on our platform - Provably fair and fun to play!
+                      Use your RXCG tokens to play, stake, swap to core Blocchain tech.
                     </p>
                   </div>
                 </div>
