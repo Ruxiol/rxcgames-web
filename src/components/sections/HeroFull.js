@@ -131,7 +131,7 @@ class HeroFull extends React.Component {
             </p>  
               Casino module
               <Image
-                src={require('./../../assets/images/6.png')}
+                src={require('./../../assets/images/hero-image.png')}
                 alt="RXCG Casino"
                 width={500}
                 height={504} />
