@@ -32,7 +32,7 @@ const FooterSocial = ({
           <div className="pt-16 pl-8 pr-24 cursor-pointer">
             <a target="_blank" href="https://chainplay.gg/games/rxc-games/">
               <Image
-                src={require('./../../../assets/images/chainplay-logo.svg')}
+                src={require('./../../../assets/images/chainplay-twitter-logo.png')}
                 alt="RXCG Chainplay"
                 width={38}
                 height={38} />
