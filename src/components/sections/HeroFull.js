@@ -137,7 +137,7 @@ class HeroFull extends React.Component {
                 height={504} />
               <Image
                 className="has-shadow"
-                src={require('./../../assets/images/1.png')}
+                src={require('./../../assets/images/3.jpg')}
                 alt="RXCG Poker"
                 width={896}
                 height={504} />                  
