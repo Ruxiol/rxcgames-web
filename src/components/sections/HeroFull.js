@@ -128,14 +128,15 @@ class HeroFull extends React.Component {
             </div>
             <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
             <p className="m-0 text-sm">
-            </p>              
+            </p>  
+              Casino module
               <Image
                 className="has-shadow"
-                src={require('./../../assets/images/5.png')}
+                src={require('./../../assets/images/3.png')}
                 alt="RXCG Casino"
                 width={896}
                 height={504} />
-              POKER Module
+              Poker Module
               <Image
                 className="has-shadow"
                 src={require('./../../assets/images/3.jpg')}
