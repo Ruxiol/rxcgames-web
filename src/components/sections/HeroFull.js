@@ -128,7 +128,13 @@ class HeroFull extends React.Component {
             <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
             <p className="m-0 text-sm">
             <a className="no-underline" href={require("./../../assets/RXCGWhitepaper.pdf")} download="RXCG Whitepaper">RXC Games Whitepaper</a>
-            </p>              
+            </p> 
+              <Image
+                className="has-shadow"
+                src={require('./../../assets/images/2.png')}
+                alt="RXCG Platform"
+                width={896}
+                height={504} />                                              
             </div>
           </div>
         </div>
