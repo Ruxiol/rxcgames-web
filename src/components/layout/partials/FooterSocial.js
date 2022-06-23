@@ -22,8 +22,16 @@ const FooterSocial = ({
         <div style={{ display: 'flex', justifyContent: 'center' }}>
           <div className="pt-16 pl-8 pr-24 cursor-pointer">
             <a target="_blank" href="https://chainplay.gg/games/rxc-games/">
-              Chainplay
               <Image
+                Chainplay
+                src={require('./../../../assets/images/chainplay-logo.svg')}
+                alt="RXCG Chainplay"
+                width={58}
+                height={58} />
+            </a>
+            <a target="_blank" href="https://nowpayments.io/supported-coins/rxcg-payments">
+              <Image
+                Nowpayments
                 src={require('./../../../assets/images/chainplay-logo.svg')}
                 alt="RXCG Chainplay"
                 width={58}
