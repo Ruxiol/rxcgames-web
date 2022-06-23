@@ -141,6 +141,7 @@ class HeroFull extends React.Component {
                 alt="RXCG Poker"
                 width={896}
                 height={504} />
+                  
               Stake Module
               <Image
                 src={require('./../../assets/images/7.png')}
