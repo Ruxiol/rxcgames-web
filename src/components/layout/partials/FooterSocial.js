@@ -30,6 +30,16 @@ const FooterSocial = ({
             </a>
           </div>
           <div className="pt-16 pl-8 pr-24 cursor-pointer">
+            <a target="_blank" href="https://chainplay.gg/games/rxc-games/">
+              <Image
+                src={require('./../../../assets/images/chainplay-logo.svg')}
+                alt="RXCG Chainplay"
+                width={38}
+                height={38} />
+            </a>
+          </div>
+          </div>
+          <div className="pt-16 pl-8 pr-24 cursor-pointer">
             <a target="_blank" href="https://twitter.com/rxc_games">
               <Image
                 src={require('./../../../assets/images/links/twitter.svg')}
