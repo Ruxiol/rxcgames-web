@@ -38,7 +38,6 @@ const FooterSocial = ({
                 height={38} />
             </a>
           </div>
-          </div>
           <div className="pt-16 pl-8 pr-24 cursor-pointer">
             <a target="_blank" href="https://twitter.com/rxc_games">
               <Image
