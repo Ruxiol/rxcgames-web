@@ -128,6 +128,8 @@ class HeroFull extends React.Component {
             <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
             <p className="m-0 text-sm">
             <a className="no-underline" href={require("./../../assets/RXCGWhitepaper.pdf")} download="RXCG Whitepaper">RXC Games Whitepaper</a>
+            <div className="container" style={{display: 'flex', justifyContent: 'center'}}>
+            <Link  to={{ pathname: "./../../assets/RXCGWhitepaper.pdf" }} target="_blank" className="button button-primary button-wide-mobile button-sm" onClick={this.closeMenu}>RXC Games Whitepaper</Link>
             </p>              
               <Image
                 className="has-shadow"
