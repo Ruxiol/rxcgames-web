@@ -21,19 +21,19 @@ const FooterSocial = ({
       <div className="container-sm pt-24">
         <div style={{ display: 'flex', justifyContent: 'center' }}>
           <div className="pt-16 pl-8 pr-24 cursor-pointer">
-            <a target="_blank" href="https://t.me/rxcgames">
+            <a target="_blank" href="https://chainplay.gg/games/rxc-games/">
               <Image
-                src={require('./../../../assets/images/links/telegram.svg')}
-                alt="RXCG Telegram"
+                src={require('./../../../assets/images/chainplay-web.svg')}
+                alt="RXCG Chainplay"
                 width={38}
                 height={38} />
             </a>
           </div>
           <div className="pt-16 pl-8 pr-24 cursor-pointer">
-            <a target="_blank" href="https://chainplay.gg/games/rxc-games/">
+            <a target="_blank" href="https://t.me/rxcgames">
               <Image
-                src={require('./../../../assets/images/chainplay-twitter-logo.png')}
-                alt="RXCG Chainplay"
+                src={require('./../../../assets/images/links/telegram.svg')}
+                alt="RXCG Telegram"
                 width={38}
                 height={38} />
             </a>
