@@ -133,20 +133,20 @@ class HeroFull extends React.Component {
               <Image
                 src={require('./../../assets/images/6.png')}
                 alt="RXCG Casino"
-                width={896}
+                width={500}
                 height={504} />
               Poker Module
               <Image
                 src={require('./../../assets/images/3.jpg')}
                 alt="RXCG Poker"
-                width={896}
+                width={500}
                 height={504} />
                   
               Stake Module
               <Image
                 src={require('./../../assets/images/7.png')}
                 alt="RXCG Stake"
-                width={896}
+                width={500}
                 height={504} />                    
             </div>
           </div>
