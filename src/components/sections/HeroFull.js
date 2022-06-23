@@ -55,6 +55,7 @@ class HeroFull extends React.Component {
               <div className="container-xs">
                 <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
                   • RXC Games •
+                 <a className="no-underline" href={require("./../../assets/RXCGWhitepaper.pdf")} download="RXCG Whitepaper">Whitepaper</a>
                 </p>
                 <div className="cta">
                   <Button className="btn-play" tag="a" color="primary" wideMobile href="https://app.rxcgames.com/">
