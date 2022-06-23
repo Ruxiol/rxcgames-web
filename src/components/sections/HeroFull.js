@@ -132,7 +132,7 @@ class HeroFull extends React.Component {
               Casino module
               <Image
                 className="has-shadow"
-                src={require('./../../assets/images/3.png')}
+                src={require('./../../assets/images/5.png')}
                 alt="RXCG Casino"
                 width={896}
                 height={504} />
