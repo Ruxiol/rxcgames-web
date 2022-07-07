@@ -67,8 +67,8 @@ class HeroFull extends React.Component {
                   <Button className="btn-play" tag="a" color="primary" wideMobile href="https://stake.rxcgames.com/">
                     Stake
                   </Button>
-                  <Button className="btn-play" tag="a" color="primary" wideMobile href="https://rxcgames.com/">
-                    Lottery
+                  <Button className="btn-play" tag="a" color="primary" wideMobile href="https://cloud.rxcgames.com/">
+                    Cloud
                   </Button>
                   <Button className="btn-play" tag="a" color="primary" wideMobile href="https://swap.rxcgames.com/">
                     Swap
