@@ -53,13 +53,6 @@ class Providers extends React.Component {
             <ul className="list-reset">
               <li>
                 <Image
-                  src={require('./../../assets/images/partners/konami.png')}
-                  alt="Konami"
-                  width={124}
-                  height={24} />
-              </li>
-              <li>
-                <Image
                   src={require('./../../assets/images/partners/microgaming.png')}
                   alt="MicroGaming"
                   width={124}
