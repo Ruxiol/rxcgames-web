@@ -97,7 +97,7 @@ class Team extends React.Component {
                       </a>
                     </div>
                     <div className="pt-16">
-                      <a href="https://www.linkedin.com/in/luka-kulier-56b462174/" target="_blank">
+                      <a href="" target="_blank">
                         <Image
                           src={require('./../../assets/images/linkedin.png')}
                           alt="Luka Kulier Linkedin"
@@ -116,14 +116,14 @@ class Team extends React.Component {
                       <Image
                         style={{ borderRadius: '50%' }}
                         src={require('./../../assets/images/team/RuxCrypto.jpg')}
-                        alt="Rux Crypto - CTO"
+                        alt="CTO"
                         width={180}
                         height={180} />
                     </div>
                   </div>
                   <div className="team-item-content">
                     <h5 className="team-item-name mt-0 mb-4">
-                      Rux Crypto
+                      Rux
                     </h5>
                     <div className="team-item-role text-xxs fw-500 tt-u text-color-primary mb-8">
                       Chief Technology Officer
@@ -136,7 +136,7 @@ class Team extends React.Component {
                     <a href="" target="_blank">
                       <Image
                         src={require('./../../assets/images/links/telegram.svg')}
-                        alt="Rux Crypto Telegram"
+                        alt="CTO"
                         width={38}
                         height={38} />
                     </a>
