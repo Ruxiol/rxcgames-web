@@ -88,7 +88,7 @@ class Team extends React.Component {
                   </div>
                   <div style={{display: 'flex', justifyContent: 'center'}}>
                     <div className="pt-16">
-                      <a href="https://twitter.com/kulier_?t=KJOv9tvRRsY5qflOLDMx0A&s=09" target="_blank">
+                      <a href="" target="_blank">
                         <Image
                           src={require('./../../assets/images/links/twitter.svg')}
                           alt="Luka Kulier Twitter"
@@ -133,7 +133,7 @@ class Team extends React.Component {
                     </p>
                   </div>
                   <div className="pt-16">
-                    <a href="https://t.me/CryptobaRux/" target="_blank">
+                    <a href="" target="_blank">
                       <Image
                         src={require('./../../assets/images/links/telegram.svg')}
                         alt="Rux Crypto Telegram"
@@ -168,7 +168,7 @@ class Team extends React.Component {
                     </p>
                   </div>
                   <div className="pt-16">
-                    <a href="https://www.linkedin.com/in/filip-brzica-877494207/" target="_blank">
+                    <a href="" target="_blank">
                       <Image
                         src={require('./../../assets/images/linkedin.png')}
                         alt="Filip Brzica Linkedin"
