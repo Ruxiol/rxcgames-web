@@ -136,12 +136,6 @@ class HeroFull extends React.Component {
                 alt="RXCG Casino"
                 width={500}
                 height={504} />
-              Poker Module
-              <Image
-                src={require('./../../assets/images/3.jpg')}
-                alt="RXCG Poker"
-                width={450}
-                height={504} />
             </div>
           </div>
         </div>
