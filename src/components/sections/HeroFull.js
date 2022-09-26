@@ -61,14 +61,8 @@ class HeroFull extends React.Component {
                   <Button className="btn-play" tag="a" color="primary" wideMobile href="https://app.rxcgames.com/">
                     Casino
                   </Button>
-                  <Button className="btn-play" tag="a" color="primary" wideMobile href="https://poker.rxcgames.com/">
-                    Poker
-                  </Button>
                   <Button className="btn-play" tag="a" color="primary" wideMobile href="https://stake.rxcgames.com/">
                     Stake
-                  </Button>
-                  <Button className="btn-play" tag="a" color="primary" wideMobile href="https://cloud.rxcgames.com/">
-                    Cloud
                   </Button>
                   <Button className="btn-play" tag="a" color="primary" wideMobile href="https://swap.rxcgames.com/">
                     Swap
@@ -134,12 +128,6 @@ class HeroFull extends React.Component {
                 src={require('./../../assets/images/hero-image.png')}
                 alt="RXCG Casino"
                 width={500}
-                height={504} />
-              Poker Module
-              <Image
-                src={require('./../../assets/images/3.jpg')}
-                alt="RXCG Poker"
-                width={450}
                 height={504} />
             </div>
           </div>
