@@ -69,8 +69,8 @@ class Team extends React.Component {
                     <div className="team-item-image mb-24">
                       <Image
                         style={{ borderRadius: '50%' }}
-                        src={require('./../../assets/images/team/LukaKulier.jpg')}
-                        alt="Luka Kulier - CEO"
+                        src={require('./../../assets/images/team/RuxCrypto.jpg')}
+                        alt="Rux - CEO"
                         width={180}
                         height={180} />
                     </div>
@@ -91,7 +91,7 @@ class Team extends React.Component {
                       <a href="" target="_blank">
                         <Image
                           src={require('./../../assets/images/links/twitter.svg')}
-                          alt="Luka Kulier Twitter"
+                          alt="Rux Twitter"
                           width={38}
                           height={38} />
                       </a>
@@ -100,7 +100,7 @@ class Team extends React.Component {
                       <a href="" target="_blank">
                         <Image
                           src={require('./../../assets/images/linkedin.png')}
-                          alt="Luka Kulier Linkedin"
+                          alt="Rux Linkedin"
                           width={38}
                           height={38} />
                       </a>
@@ -150,8 +150,8 @@ class Team extends React.Component {
                     <div className="team-item-image mb-24">
                       <Image
                         style={{ borderRadius: '50%' }}
-                        src={require('./../../assets/images/team/FilipBrzica.jpg')}
-                        alt="Filip Brzica - CM"
+                        src={require('./../../assets/images/team/RuxCrypto.jpg')}
+                        alt="Rux - CM"
                         width={180}
                         height={180} />
                     </div>
@@ -171,7 +171,7 @@ class Team extends React.Component {
                     <a href="" target="_blank">
                       <Image
                         src={require('./../../assets/images/linkedin.png')}
-                        alt="Filip Brzica Linkedin"
+                        alt="Rux Linkedin"
                         width={38}
                         height={38} />
                     </a>
