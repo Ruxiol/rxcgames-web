@@ -130,16 +130,15 @@ class HeroFull extends React.Component {
             <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
             <p className="m-0 text-sm">
             </p>  
-              Casino module
+            Casino module
               <Image
                 src={require('./../../assets/images/hero-image.png')}
                 alt="RXCG Casino"
                 width={500}
-                height={504} />
+                height={504} /> 
             </div>
           </div>
-        </div>
-      </section>
+        </section>
     );
   }
 }
