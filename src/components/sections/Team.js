@@ -77,7 +77,7 @@ class Team extends React.Component {
                   </div>
                   <div className="team-item-content">
                     <h5 className="team-item-name mt-0 mb-4">
-                      Luka Kulier
+                      Rux
                     </h5>
                     <div className="team-item-role text-xxs fw-500 tt-u text-color-primary mb-8">
                       Chief Executive Officer
@@ -158,7 +158,7 @@ class Team extends React.Component {
                   </div>
                   <div className="team-item-content">
                     <h5 className="team-item-name mt-0 mb-4">
-                      Filip Brzica
+                      Rux
                     </h5>
                     <div className="team-item-role text-xxs fw-500 tt-u text-color-primary mb-8">
                       Community Manager
