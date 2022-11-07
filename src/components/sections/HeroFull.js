@@ -110,6 +110,7 @@ class HeroFull extends React.Component {
                         height={38} />
                     </a>
                   </div>
+                  </div>
                   <div className="pt-16 pl-8 pr-24 cursor-pointer">
                     <a target="_blank" href="https://poocoin.app/tokens/0x7c59a57fc16eac270421b74615c4bc009ecd486d">
                       <Image
