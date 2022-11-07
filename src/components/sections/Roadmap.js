@@ -179,9 +179,6 @@ class Roadmap extends React.Component {
                         <li>Lottery/Raffle system for RXCG token</li>                     
                         <li>Social Media Marketing</li>
                         <li>Governance Forum set up</li>
-                        <li>CEX Listings</li>
-                        <li>Set up for DAO community</li>
-                        <li>DAO community</li>
                       </ul>
                     </div>
                   </div>
@@ -200,6 +197,9 @@ class Roadmap extends React.Component {
                     </div>
                     <div className="roadmap-item-features mb-40">
                       <ul className="roadmap-item-features-list list-reset text-xs mb-32">
+                        <li>CEX Listings</li>
+                        <li>Set up for DAO community</li>
+                        <li>DAO community</li>                        
                         <li>Managed by DAO</li>
                         <li>Additional marketings (if voted by DAO)</li>
                         <li>Additional major casino updates (if managed by DAO)</li>
