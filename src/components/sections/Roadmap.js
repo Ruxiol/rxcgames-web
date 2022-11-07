@@ -157,7 +157,6 @@ class Roadmap extends React.Component {
                         <li className="is-checked">Inhouse Poker system</li>
                         <li className="is-checked">Staking Smart Contract</li>
                         <li className="is-checked">2Way Swap Coin to Token.</li>
-                        <li>Lottery/Raffle system for RXCG token</li>                     
                       </ul>
                     </div>
                   </div>
@@ -170,13 +169,14 @@ class Roadmap extends React.Component {
                     <div className="roadmap-item-header pb-24 mb-24">
                       <div className="roadmap-item-price mb-4">
                         <span className="roadmap-item-price-currency h2">
-                          Q2 2022
+                          Q4 2022
                         </span>
                       </div>
                     </div>
                     <div className="roadmap-item-features mb-40">
                       <ul className="roadmap-item-features-list list-reset text-xs mb-32">
                         <li>RXCGames Casino Beta</li>
+                        <li>Lottery/Raffle system for RXCG token</li>                     
                         <li>Social Media Marketing</li>
                         <li>Governance Forum set up</li>
                         <li>CEX Listings</li>
@@ -194,7 +194,7 @@ class Roadmap extends React.Component {
                     <div className="roadmap-item-header pb-24 mb-24">
                       <div className="roadmap-item-price mb-4">
                         <span className="roadmap-item-price-currency h2">
-                          Q3 & Q4 2022
+                          Q1 & Q2 2023
                         </span>
                       </div>
                     </div>
