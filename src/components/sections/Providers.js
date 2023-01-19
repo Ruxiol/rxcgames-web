@@ -53,7 +53,7 @@ class Providers extends React.Component {
             <ul className="list-reset">
               <li>
                 <Image
-                  src={require('./../../assets/images/partners/microgaming.png')}
+                  src={require('./../../assets/images/partners/netent.png')}
                   alt="MicroGaming"
                   width={124}
                   height={24} />
@@ -61,29 +61,26 @@ class Providers extends React.Component {
               <li>
                 <Image
                   src={require('./../../assets/images/partners/netent.png')}
-                  alt="Netent"
+                  alt="Pragmatic"
                   width={124}
                   height={24} />
               </li>
               <li>
                 <Image
-                  src={require('./../../assets/images/partners/playtech.png')}
-                  alt="PlayTech"
+                  src={require('./../../assets/images/partners/netent.png')}
+                  alt="Mascot"
                   width={124}
                   height={24} />
               </li>
               <li>
                 <Image
-                  src={require('./../../assets/images/partners/playson.png')}
+                  src={require('./../../assets/images/partners/netent.png')}
                   alt="PlaySon"
                   width={124}
                   height={24} />
               </li>
             </ul>
           </div>
-        </div>
-        <div className="container" style={{display: 'flex', justifyContent: 'center'}}>
-          <Link  to={{ pathname: "https://app.rxcgames.com/providers" }} target="_blank" className="button button-primary button-wide-mobile button-sm" onClick={this.closeMenu}>See all Providers (75)</Link>
         </div>
       </section>
     );
