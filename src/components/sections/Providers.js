@@ -53,29 +53,29 @@ class Providers extends React.Component {
             <ul className="list-reset">
               <li>
                 <Image
-                  src={require('./../../assets/images/partners/netent.png')}
+                  src={require('./../../assets/images/partners/Netent.png')}
                   alt="MicroGaming"
                   width={124}
                   height={24} />
               </li>
               <li>
                 <Image
-                  src={require('./../../assets/images/partners/netent.png')}
-                  alt="Pragmatic"
+                  src={require('./../../assets/images/partners/Phoenix.png')}
+                  alt="Phoenix Gambling"
                   width={124}
                   height={24} />
               </li>
               <li>
                 <Image
-                  src={require('./../../assets/images/partners/netent.png')}
+                  src={require('./../../assets/images/partners/Pragmaticplay.png')}
+                  alt="Pragmatic play"
+                  width={124}
+                  height={24} />
+              </li>
+              <li>
+                <Image
+                  src={require('./../../assets/images/partners/Mascot.png')}
                   alt="Mascot"
-                  width={124}
-                  height={24} />
-              </li>
-              <li>
-                <Image
-                  src={require('./../../assets/images/partners/netent.png')}
-                  alt="PlaySon"
                   width={124}
                   height={24} />
               </li>
