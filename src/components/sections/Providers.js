@@ -60,13 +60,6 @@ class Providers extends React.Component {
               </li>
               <li>
                 <Image
-                  src={require('./../../assets/images/partners/Phoenix.png')}
-                  alt="Phoenix Gambling"
-                  width={124}
-                  height={24} />
-              </li>
-              <li>
-                <Image
                   src={require('./../../assets/images/partners/Pragmaticplay.png')}
                   alt="Pragmatic play"
                   width={124}
@@ -76,6 +69,13 @@ class Providers extends React.Component {
                 <Image
                   src={require('./../../assets/images/partners/Mascot.png')}
                   alt="Mascot"
+                  width={124}
+                  height={24} />
+              </li>
+                <li>
+                <Image
+                  src={require('./../../assets/images/partners/Phoenix.png')}
+                  alt="Phoenix Gambling"
                   width={124}
                   height={24} />
               </li>
