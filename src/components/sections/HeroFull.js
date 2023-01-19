@@ -117,7 +117,7 @@ class HeroFull extends React.Component {
             <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
             <p className="m-0 text-sm">
             </p>  
-            RXC Games Beta release
+            RXC Games platform with RXCG token as main currency.
               <Image
                 src={require('./../../assets/images/hero-image.png')}
                 alt="RXCG Casino"
