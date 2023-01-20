@@ -142,9 +142,6 @@ class Header extends React.Component {
                           <DomLink to={{ pathname: "https://pancakeswap.finance/swap?outputCurrency=0x7c59a57fc16eac270421b74615c4bc009ecd486d" }} target="_blank" className="button button-primary button-wide-mobile button-sm" onClick={this.closeMenu}>DEX</DomLink>
                         </li>                                                
                         <li>
-                          <DomLink to={{ pathname: "https://www.xt.com/tradePro/rxcg_usdt" }} target="_blank" className="button button-primary button-wide-mobile button-sm" onClick={this.closeMenu}>CEX</DomLink>
-                        </li>                        
-                        <li>
                           <DomLink to={{ pathname: "https://dexscreener.com/bsc/0xeb6cf41b391e21d38a926b4abf6bcefce833fa82" }} target="_blank" className="button button-primary button-wide-mobile button-sm" onClick={this.closeMenu}>DEX Screener</DomLink>
                         </li>                        
                       </ul>}
