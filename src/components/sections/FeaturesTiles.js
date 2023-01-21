@@ -116,8 +116,8 @@ class FeaturesTiles extends React.Component {
                       <Image
                         src={require('./../../assets/images/binancesmartchain.svg')}
                         alt="BSC Smart contract"
-                        width={40}
-                        height={40} />
+                        width={70}
+                        height={70} />
                     </div>
                   </div>
                   <div className="features-tiles-item-content">
