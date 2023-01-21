@@ -102,7 +102,7 @@ class FeaturesTiles extends React.Component {
                       Play, Stake and Earn
                     </h4>
                     <p className="m-0 text-sm">
-                      Play 4000+ games on our platform - Provably fair and fun to play!
+                      Play fun games on our platform - Provably fair and fun to play!
                       Use your RXCG tokens to play, stake, swap.
                     </p>
                   </div>
@@ -114,18 +114,18 @@ class FeaturesTiles extends React.Component {
                   <div className="features-tiles-item-header">
                     <div className="features-tiles-item-image mb-16">
                       <Image
-                        src={require('./../../assets/images/bitcoin.svg')}
-                        alt="State of the art Contract"
+                        src={require('./../../assets/images/binancesmartchain.svg')}
+                        alt="BSC Smart contract"
                         width={40}
                         height={40} />
                     </div>
                   </div>
                   <div className="features-tiles-item-content">
                     <h4 className="mt-0 mb-8">
-                      State of the art contract
+                      BSC Smart contract
                     </h4>
                     <p className="m-0 text-sm">
-                      Our contract has been developed by Trynos. Enough said.
+                      State of the art Smart Contract built on Binance Smart Chain.
                     </p>
                   </div>
                 </div>
