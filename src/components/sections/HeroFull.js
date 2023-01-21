@@ -127,7 +127,7 @@ class HeroFull extends React.Component {
                 width={500}
                 height={504} /> 
             </div>
-<iframe height="300%" width="100%" id="geckoterminal-embed" title="GeckoTerminal Embed" src="https://www.geckoterminal.com/bsc/pools/0xeb6cf41b391e21d38a926b4abf6bcefce833fa82?embed=1&info=1&swaps=1" frameborder="0" allow="clipboard-write" allowfullscreen></iframe>
+<iframe height="500px" width="100%" id="geckoterminal-embed" title="GeckoTerminal Embed" src="https://www.geckoterminal.com/bsc/pools/0xeb6cf41b391e21d38a926b4abf6bcefce833fa82?embed=1&info=1&swaps=1" frameborder="0" allow="clipboard-write" allowfullscreen></iframe>
           </div>
         </section>
     );
