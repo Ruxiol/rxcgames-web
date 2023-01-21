@@ -50,12 +50,11 @@ class HeroFull extends React.Component {
           <div className={innerClasses}>
             <div className="hero-content">
               <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
-                RXC Games Reborn
+                RXC Games
               </h1>
               <div className="container-xs">
-                <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-                  • <a className="no-underline" href={require("./../../assets/RXCGWhitepaper.pdf")} download="RXCG Whitepaper">RXCG Whitepaper</a> •
-
+                <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="200">
+                  • <a className="no-underline" href={require("./../../assets/RXCGWhitepaper.pdf")} download="Whitepaper">RXCG Whitepaper</a> •
                 </p>
                 <div className="cta">
                   <Button className="btn-play" tag="a" color="primary" wideMobile href="https://app.rxcgames.com/">
@@ -120,7 +119,7 @@ class HeroFull extends React.Component {
             <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
             <p className="m-0 text-sm">
             </p>  
-            RXC Games platform with RXCG token as main currency.
+            RXC Games platform use RXCG as native token.
               <Image
                 src={require('./../../assets/images/hero-image.png')}
                 alt="RXCG Casino"
