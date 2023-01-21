@@ -64,8 +64,6 @@ class HeroFull extends React.Component {
                   <Button className="btn-play" tag="a" color="primary" wideMobile href="https://raffle.rxcgames.com/">
                     Raffle
                   </Button>                                                        
-                </div>
-                <div className="cta">
                   <Button className="btn-play" tag="a" color="primary" wideMobile href="https://pancakeswap.finance/add/BNB/0x7C59A57fC16EaC270421B74615c4BC009eCd486d?chain=bsc">
                     LP Stake
                   </Button>
@@ -75,7 +73,7 @@ class HeroFull extends React.Component {
                   <Button className="btn-play" tag="a" color="primary" wideMobile href="https://swap.rxcgames.com/">
                     Swap
                   </Button>
-                </div>                                                      
+                </div>
               </div>
               <div className="container-sm pt-24 reveal-from-bottom">
                 <div style={{ display: 'flex', justifyContent: 'center' }}>
