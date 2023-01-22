@@ -70,8 +70,8 @@ class FeaturesTiles extends React.Component {
                       <Image
                         src={require('./../../assets/images/cube.svg')}
                         alt="Join the Revolution"
-                        width={40}
-                        height={40} />
+                        width={42}
+                        height={42} />
                     </div>
                   </div>
                   <div className="features-tiles-item-content">
