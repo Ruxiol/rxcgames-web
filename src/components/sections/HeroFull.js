@@ -63,12 +63,6 @@ class HeroFull extends React.Component {
                   <Button className="btn-play" tag="a" color="primary" wideMobile href="https://raffle.rxcgames.com/">
                     Raffle
                   </Button>                                                        
-                  <Button className="btn-play" tag="a" color="primary" wideMobile href="https://pancakeswap.finance/add/BNB/0x7C59A57fC16EaC270421B74615c4BC009eCd486d?chain=bsc">
-                    LP Stake
-                  </Button>
-                  <Button className="btn-play" tag="a" color="primary" wideMobile href="https://stake.rxcgames.com/">
-                    RS Stake
-                  </Button>                                                      
                   <Button className="btn-play" tag="a" color="primary" wideMobile href="https://swap.rxcgames.com/">
                     Swap
                   </Button>
