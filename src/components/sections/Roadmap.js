@@ -240,7 +240,7 @@ class Roadmap extends React.Component {
                     <div className="roadmap-item-header pb-24 mb-24">
                       <div className="roadmap-item-price mb-4">
                         <span className="roadmap-item-price-currency h2">
-                          Q1 & Q2 2024
+                          Q3 & 2024
                         </span>
                       </div>
                     </div>
