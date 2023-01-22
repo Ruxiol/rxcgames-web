@@ -116,8 +116,8 @@ class FeaturesTiles extends React.Component {
                       <Image
                         src={require('./../../assets/images/binancesmartchain.svg')}
                         alt="BSC Smart contract"
-                        width={40}
-                        height={40} />
+                        width={70}
+                        height={70} />
                     </div>
                   </div>
                   <div className="features-tiles-item-content">
@@ -160,7 +160,6 @@ class FeaturesTiles extends React.Component {
                 <div className="tiles-item-inner">
                   <div className="features-tiles-item-header">
                     <div className="features-tiles-item-image mb-16">
-                      <a href="https://coinmarketcap.com/currencies/rxcgames/" target="_blank">                                                                                                           
                       <Image
                         src={require('./../../assets/images/cmc.svg')}
                         alt="CMC"
