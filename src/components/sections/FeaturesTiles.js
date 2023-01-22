@@ -125,7 +125,7 @@ class FeaturesTiles extends React.Component {
                       Binance Smart Chain
                     </h4>
                     <p className="m-0 text-sm">
-                      Fast confirmation times, and a fact it has CZ behind it, that was main reason why we choose to build on BSC network.
+                      Fast confirmation times, and a fact it has CZ behind it, that was main reason why we choose BSC.
                     </p>
                   </div>
                 </div>
