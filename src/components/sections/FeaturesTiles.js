@@ -70,8 +70,8 @@ class FeaturesTiles extends React.Component {
                       <Image
                         src={require('./../../assets/images/cube.svg')}
                         alt="Join the Revolution"
-                        width={40}
-                        height={40} />
+                        width={48}
+                        height={48} />
                     </div>
                   </div>
                   <div className="features-tiles-item-content">
@@ -116,8 +116,8 @@ class FeaturesTiles extends React.Component {
                       <Image
                         src={require('./../../assets/images/binancesmartchain.svg')}
                         alt="BSC Smart contract"
-                        width={70}
-                        height={70} />
+                        width={48}
+                        height={48} />
                     </div>
                   </div>
                   <div className="features-tiles-item-content">
@@ -141,8 +141,8 @@ class FeaturesTiles extends React.Component {
                       <Image
                         src={require('./../../assets/images/audit.svg')}
                         alt="Audit"
-                        width={40}
-                        height={40} />
+                        width={48}
+                        height={48} />
                     </div>
                   </div>
                   <div className="features-tiles-item-content">
@@ -163,8 +163,8 @@ class FeaturesTiles extends React.Component {
                       <Image
                         src={require('./../../assets/images/cmc.svg')}
                         alt="CMC"
-                        width={40}
-                        height={40} />
+                        width={48}
+                        height={48} />
                     </div>
                   </div>
                   <div className="features-tiles-item-content">
@@ -185,8 +185,8 @@ class FeaturesTiles extends React.Component {
                       <Image
                         src={require('./../../assets/images/CoinGecko Logo.svg')}
                         alt="CG"
-                        width={40}
-                        height={40} />
+                        width={48}
+                        height={48} />
                     </div>
                   </div>
                   <div className="features-tiles-item-content">
