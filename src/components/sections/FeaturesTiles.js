@@ -93,8 +93,8 @@ class FeaturesTiles extends React.Component {
                       <Image
                         src={require('./../../assets/images/moneybag.svg')}
                         alt="Play and Earn"
-                        width={40}
-                        height={40} />
+                        width={48}
+                        height={48} />
                     </div>
                   </div>
                   <div className="features-tiles-item-content">
