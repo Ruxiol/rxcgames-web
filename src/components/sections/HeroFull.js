@@ -58,7 +58,7 @@ class HeroFull extends React.Component {
                 </p>
                 <div className="cta">
                   <Button className="btn-play" tag="a" color="primary" wideMobile href="https://app.rxcgames.com/">
-                    Casino
+                    App
                   </Button>
                   <Button className="btn-play" tag="a" color="primary" wideMobile href="https://raffle.rxcgames.com/">
                     Raffle
