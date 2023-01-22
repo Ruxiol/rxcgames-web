@@ -81,8 +81,8 @@ class HeroFull extends React.Component {
                       <Image
                         src={require('./../../assets/images/links/telegram.svg')}
                         alt="RXCG Telegram"
-                        width={38}
-                        height={38} />
+                        width={48}
+                        height={48} />
                     </a>
                   </div>
                   <div className="pt-16 pl-8 pr-24 cursor-pointer">
@@ -90,8 +90,8 @@ class HeroFull extends React.Component {
                       <Image
                         src={require('./../../assets/images/links/twitter.svg')}
                         alt="RXCG Twitter"
-                        width={38}
-                        height={38} />
+                        width={48}
+                        height={48} />
                     </a>
                   </div>
                   <div className="pt-16 pl-8 pr-24 cursor-pointer">
@@ -99,8 +99,8 @@ class HeroFull extends React.Component {
                       <Image
                         src={require('./../../assets/images/links/pcs.svg')}
                         alt="RXCG PCS"
-                        width={38}
-                        height={38} />
+                        width={48}
+                        height={48} />
                     </a>
                   </div>
                   <div className="pt-16 pl-8 pr-24 cursor-pointer">
@@ -108,8 +108,8 @@ class HeroFull extends React.Component {
                       <Image
                         src={require('./../../assets/images/links/poocoin.svg')}
                         alt="RXCG Poocoin"
-                        width={38}
-                        height={38} />
+                        width={48}
+                        height={48} />
                     </a>
                   </div>
                   </div>
