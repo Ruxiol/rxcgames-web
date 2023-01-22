@@ -111,6 +111,7 @@ class HeroFull extends React.Component {
                         height={48} />
                     </a>
                   </div>
+                  </div>
                 </div>
               </div>
             </div>
