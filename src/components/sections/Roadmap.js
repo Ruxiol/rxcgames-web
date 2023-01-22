@@ -152,7 +152,6 @@ class Roadmap extends React.Component {
                     </div>
                     <div className="roadmap-item-features mb-40">
                       <ul className="roadmap-item-features-list list-reset text-xs mb-32">
-                        <li className="is-checked">CEX listings</li>
                         <li className="is-checked">Discord community</li>
                         <li className="is-checked">Inhouse Poker system</li>
                         <li className="is-checked">Staking Smart Contract</li>
@@ -169,7 +168,30 @@ class Roadmap extends React.Component {
                     <div className="roadmap-item-header pb-24 mb-24">
                       <div className="roadmap-item-price mb-4">
                         <span className="roadmap-item-price-currency h2">
-                          Q4 2022
+                          Q2 & Q3 & Q4 2022 a.k.a DarkAge for RXC Games team
+                        </span>
+                      </div>
+                    </div>
+                    <div className="roadmap-item-features mb-40">
+                      <ul className="roadmap-item-features-list list-reset text-xs mb-32">
+                        <li>We found out "our" main dev was stealing from us, from day one.</li>
+                        <li>His name is Ryan West, pretending to be Isaac Kohen, game dev!</li>
+                        <li>Our team gave him aprox 80.000$ of team funds for entire game developingl</li>
+                        <li>Then in Q2 he stole hefty amount of funds from main Bankroll and Liqudity Pool, and went MIA.</li>
+                        <li>Luckly, our CTO at the time, Rux saved some of the backend and frontend code we used</li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div className="tiles-item reveal-from-bottom" data-reveal-delay="200">
+                <div className="tiles-item-inner has-shadow">
+                  <div className="roadmap-item-content">
+                    <div className="roadmap-item-header pb-24 mb-24">
+                      <div className="roadmap-item-price mb-4">
+                        <span className="roadmap-item-price-currency h2">
+                          Q1 & Q2 2023
                         </span>
                       </div>
                     </div>
@@ -178,7 +200,7 @@ class Roadmap extends React.Component {
                         <li>RXCGames Casino Beta</li>
                         <li>Lottery/Raffle system for RXCG token</li>                     
                         <li>Social Media Marketing</li>
-                        <li>Governance Forum set up</li>
+                        <li>Community Forum set up</li>
                       </ul>
                     </div>
                   </div>
@@ -191,7 +213,7 @@ class Roadmap extends React.Component {
                     <div className="roadmap-item-header pb-24 mb-24">
                       <div className="roadmap-item-price mb-4">
                         <span className="roadmap-item-price-currency h2">
-                          Q1 & Q2 2023
+                          Q1 & Q2 2024
                         </span>
                       </div>
                     </div>
