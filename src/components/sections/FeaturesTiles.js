@@ -147,7 +147,7 @@ class FeaturesTiles extends React.Component {
                   </div>
                   <div className="features-tiles-item-content">
                     <h4 className="mt-0 mb-8">
-                      RXCG Desert Finance Audit
+                      RXCG Audit
                     </h4>
                     <p className="m-0 text-sm">
                       Read the audit of RXCGames done by Dessert Finance <a className="no-underline" href={require("./../../assets/RXCG Audit.pdf")} download="RXCG Audit">here</a>
@@ -172,7 +172,7 @@ class FeaturesTiles extends React.Component {
                       CoinMarketCap
                     </h4>
                     <p className="m-0 text-sm">
-                      RXCGames is listed on CoinMarketCap. You can find us <a href="https://coinmarketcap.com/currencies/rxcgames/" target="_blank" className="no-underline">here</a>
+                      RXC Games is listed on CoinMarketCap. You can find us <a href="https://coinmarketcap.com/currencies/rxcgames/" target="_blank" className="no-underline">here</a>
                     </p>
                   </div>
                 </div>
@@ -191,10 +191,10 @@ class FeaturesTiles extends React.Component {
                   </div>
                   <div className="features-tiles-item-content">
                     <h4 className="mt-0 mb-8">
-                      Coin Gecko
+                      CoinGecko
                     </h4>
                     <p className="m-0 text-sm">
-                      RXCGames is listed on Coin Gecko. You can find us <a  href="https://www.coingecko.com/en/coins/rxcgames" target="_blank" className="no-underline">here</a>
+                      RXC Games is listed on CoinGecko. You can find us <a  href="https://www.coingecko.com/en/coins/rxcgames" target="_blank" className="no-underline">here</a>
                     </p>
                   </div>
                 </div>
