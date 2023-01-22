@@ -122,10 +122,10 @@ class FeaturesTiles extends React.Component {
                   </div>
                   <div className="features-tiles-item-content">
                     <h4 className="mt-0 mb-8">
-                      BSC Smart contract
+                      Binance Smart Chain
                     </h4>
                     <p className="m-0 text-sm">
-                      State of the art Smart Contract built on Binance Smart Chain.
+                      Fast confirmation times, and a fact it has CZ behind it reason why we choose to build on this network.
                     </p>
                   </div>
                 </div>
