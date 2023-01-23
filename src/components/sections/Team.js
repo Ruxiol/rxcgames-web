@@ -77,10 +77,10 @@ class Team extends React.Component {
                   </div>
                   <div className="team-item-content">
                     <h5 className="team-item-name mt-0 mb-4">
-                      Rux
+                      Rux Crypto
                     </h5>
                     <div className="team-item-role text-xxs fw-500 tt-u text-color-primary mb-8">
-                      Chief Executive Officer
+                      CEO
                     </div>
                     <p className="m-0 text-xs">
                       In charge of the management and administrative direction of the project and execution of long-term strategies
@@ -115,7 +115,7 @@ class Team extends React.Component {
                     <div className="team-item-image mb-24">
                       <Image
                         style={{ borderRadius: '50%' }}
-                        src={require('./../../assets/images/team/RuxCrypto.jpg')}
+                        src={require('./../../assets/images/team/RXCGgregorylaychuk.jpg')}
                         alt="CTO"
                         width={180}
                         height={180} />
@@ -123,10 +123,10 @@ class Team extends React.Component {
                   </div>
                   <div className="team-item-content">
                     <h5 className="team-item-name mt-0 mb-4">
-                      Rux
+                      Gregory Laychuk
                     </h5>
                     <div className="team-item-role text-xxs fw-500 tt-u text-color-primary mb-8">
-                      Chief Technology Officer
+                      CTO / MainDev
                     </div>
                     <p className="m-0 text-sm">
                       Responsible for the technical teams and to implement new strategies to improve the final product
@@ -150,7 +150,7 @@ class Team extends React.Component {
                     <div className="team-item-image mb-24">
                       <Image
                         style={{ borderRadius: '50%' }}
-                        src={require('./../../assets/images/team/RuxCrypto.jpg')}
+                        src={require('./../../assets/images/team/RXCGdanisk.jpg')}
                         alt="Rux - CM"
                         width={180}
                         height={180} />
@@ -158,10 +158,10 @@ class Team extends React.Component {
                   </div>
                   <div className="team-item-content">
                     <h5 className="team-item-name mt-0 mb-4">
-                      Rux
+                      Danesh K.
                     </h5>
                     <div className="team-item-role text-xxs fw-500 tt-u text-color-primary mb-8">
-                      Community Manager
+                      Marketing / Community Manager
                     </div>
                     <p className="m-0 text-sm">
                       Responsible for marketing activities, advertising, market research and community service
@@ -171,7 +171,7 @@ class Team extends React.Component {
                     <a href="" target="_blank">
                       <Image
                         src={require('./../../assets/images/linkedin.png')}
-                        alt="Rux Linkedin"
+                        alt="Danesh Linkedin"
                         width={38}
                         height={38} />
                     </a>
