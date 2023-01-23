@@ -50,7 +50,7 @@ class Team extends React.Component {
 
     const sectionHeader = {
       title: 'Meet the Team',
-      paragraph: 'Leadership of a team that brings Vegas to your home'
+      paragraph: 'RXC Games team that brings fun to your home'
     };
 
     return (
@@ -96,15 +96,6 @@ class Team extends React.Component {
                           height={38} />
                       </a>
                     </div>
-                    <div className="pt-16">
-                      <a href="" target="_blank">
-                        <Image
-                          src={require('./../../assets/images/linkedin.png')}
-                          alt="Rux Linkedin"
-                          width={38}
-                          height={38} />
-                      </a>
-                    </div>
                   </div>
                 </div>
               </div>
@@ -132,15 +123,6 @@ class Team extends React.Component {
                       Responsible for the technical teams and to implement new strategies to improve the final product
                     </p>
                   </div>
-                  <div className="pt-16">
-                    <a href="" target="_blank">
-                      <Image
-                        src={require('./../../assets/images/links/telegram.svg')}
-                        alt="CTO"
-                        width={38}
-                        height={38} />
-                    </a>
-                  </div>
                 </div>
               </div>
 
@@ -166,15 +148,6 @@ class Team extends React.Component {
                     <p className="m-0 text-sm">
                       Responsible for marketing activities, advertising, market research and community service
                     </p>
-                  </div>
-                  <div className="pt-16">
-                    <a href="" target="_blank">
-                      <Image
-                        src={require('./../../assets/images/linkedin.png')}
-                        alt="Danesh Linkedin"
-                        width={38}
-                        height={38} />
-                    </a>
                   </div>
                 </div>
               </div>
