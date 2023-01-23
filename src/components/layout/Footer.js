@@ -61,8 +61,8 @@ class Footer extends React.Component {
               <FooterSocial />
             </div>
             <div className="footer-bottom space-between text-xxs invert-order-desktop">
-              <div className="footer-copyright">RXC Games <a href={links[3].url}><img src={links[2].thumbnail} alt='Chainplay'/></a></div>
-              <div className="footer-copyright">Project <a href={links[2].url}><img src={links[1].thumbnail} alt='nowpayments'/></a></div>
+              <div className="footer-copyright">RXC Games <a href={links[2].url}><img src={links[2].thumbnail} alt='Chainplay'/></a></div>
+              <div className="footer-copyright">&copy; 2023 RXCGames, all rights reserved</div>
               <div className="footer-copyright">Integrate RXCG token via <a href={links[1].url}><img src={links[1].thumbnail} alt='nowpayments'/></a></div>
             </div>
           </div>
