@@ -21,14 +21,14 @@ const FooterSocial = ({
       <div className="container-sm pt-24">
         <div style={{ display: 'flex', justifyContent: 'center' }}>
           <div className="pt-16 pl-8 pr-24 cursor-pointer">
-            <a target="_blank" href="https://chainplay.gg/games/rxc-games/">
-              Chainplay
+            <a target="_blank" href="https://t.me/rxcgames">
+              Telegram
             </a>
-            <a target="_blank" href="https://nowpayments.io/supported-coins/rxcg-payments">
-              Nowpayments
+            <a target="_blank" href="https://twitter.com/rxc_games">
+              Twitter
             </a>
           </div>
-        </div>
+        </div>w
       </div>
     </div>
   );
