@@ -83,19 +83,8 @@ class Team extends React.Component {
                       CEO
                     </div>
                     <p className="m-0 text-xs">
-                      In charge of the management and administrative direction of the project and execution of long-term strategies
+                      Administrative direction of the project and execution of long-term strategies
                     </p>
-                  </div>
-                  <div style={{display: 'flex', justifyContent: 'center'}}>
-                    <div className="pt-16">
-                      <a href="" target="_blank">
-                        <Image
-                          src={require('./../../assets/images/links/twitter.svg')}
-                          alt="Rux Twitter"
-                          width={38}
-                          height={38} />
-                      </a>
-                    </div>
                   </div>
                 </div>
               </div>
@@ -120,7 +109,7 @@ class Team extends React.Component {
                       CTO / MainDev
                     </div>
                     <p className="m-0 text-sm">
-                      Responsible for the technical teams and to implement new strategies to improve the final product
+                      Responsible for the technical team and new strategies to improve the final product
                     </p>
                   </div>
                 </div>
@@ -146,7 +135,7 @@ class Team extends React.Component {
                       Marketing / Community Manager
                     </div>
                     <p className="m-0 text-sm">
-                      Responsible for marketing activities, advertising, market research and community service
+                      Marketing activities, advertising, market research and community service
                     </p>
                   </div>
                 </div>
