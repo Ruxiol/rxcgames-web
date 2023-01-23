@@ -83,7 +83,7 @@ class Team extends React.Component {
                       CEO
                     </div>
                     <p className="m-0 text-xs">
-                      Administrative direction of the project and execution of long-term strategies
+                      Administrative direction of the project and execution of long-term strategies regarding RXC Games project.
                     </p>
                   </div>
                 </div>
