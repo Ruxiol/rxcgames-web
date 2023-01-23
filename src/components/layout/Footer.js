@@ -47,7 +47,9 @@ class Footer extends React.Component {
               <FooterSocial />
             </div>
             <div className="footer-bottom space-between text-xxs invert-order-desktop">
-              <div className="footer-copyright">&copy; 2021 RXCGames, all rights reserved</div>
+              <div className="footer-copyright">&copy; 2023 RXCGames, all rights reserved</div>
+              <div className="footer-copyright">&copy; Accept RXCG token via NowPayments</div>
+              <div className="footer-copyright">&copy; Check details bout RXCG on ChainPlay</div>
             </div>
           </div>
         </div>
