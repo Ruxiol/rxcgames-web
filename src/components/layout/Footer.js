@@ -41,7 +41,7 @@ class Footer extends React.Component {
         },
         {
             "url": "https://chainplay.gg/games/rxc-games/",
-            "thumbnail": "https://chainplay.gg/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2FlogoNoelWhite.163c3a16.png&w=163&q=21g"
+            "thumbnail": "https://chainplay.gg/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2FlogoNoelWhite.163c3a16.png&w=256&q=75"
         }
     ]
 
