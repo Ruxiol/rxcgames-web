@@ -56,11 +56,11 @@ class Cta extends React.Component {
           >
             <div className="cta-slogan">
               <h3 className="m-0">
-                Feel free to send us an email for proposals
+                Are you interested to add your token to RXC Games project and add usecase to your token
               </h3>
             </div>
             <div className="cta-action">
-              <Button tag="a" wideMobile href="mailto:info@rxcgames.com">
+              <Button className="btn-play" tag="a" color="primary" wideMobile href="https://t.me/rxcgames">
                 Contact Us
               </Button>
             </div>
