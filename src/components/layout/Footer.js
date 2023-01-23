@@ -41,7 +41,7 @@ class Footer extends React.Component {
         },
         {
             "url": "https://chainplay.gg/games/rxc-games/",
-            "thumbnail": "https://chainplay.gg/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2FlogoNoelWhite.163c3a16.png&w=256&q=75"
+            "thumbnail": "https://im3.ezgif.com/tmp/ezgif-3-c05dd19761.png"
         }
     ]
 
@@ -61,9 +61,9 @@ class Footer extends React.Component {
               <FooterSocial />
             </div>
             <div className="footer-bottom space-between text-xxs invert-order-desktop">
+              <div className="footer-copyright">RXC Games <a href={links[2].url}><img src={links[2].thumbnail} alt='Chainplay'/></a></div>
               <div className="footer-copyright">&copy; 2023 RXCGames, all rights reserved</div>
-              <div className="footer-copyright">Accept RXCG token via <a href={links[1].url}><img src={links[1].thumbnail} alt='nowpayments'/></a></div>
-              <div className="footer-copyright">Check details bout RXCG on <a href={links[2].url}><img src={links[2].thumbnail} alt='Chainplay'/></a></div>
+              <div className="footer-copyright">Integrate RXCG token via <a href={links[1].url}><img src={links[1].thumbnail} alt='nowpayments'/></a></div>
             </div>
           </div>
         </div>
