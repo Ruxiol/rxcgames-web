@@ -16,6 +16,7 @@ const defaultProps = {
 }
 
 class Footer extends React.Component {
+
   render() {
     const {
       className,
@@ -29,21 +30,6 @@ class Footer extends React.Component {
       topOuterDivider && 'has-top-divider',
       className
     );
-
-    const links = [
-        {
-            "url": "https://nowpayments.io/supported-coins/rxcg-payments",
-            "thumbnail": "https://nowpayments.io/images/logo/logo.svg"
-        },
-        {
-            "url": "https://rxcgames.com",
-            "thumbnail": "https://rxcgames.com/static/media/logo.c4003442.svg"
-        },
-        {
-            "url": "https://chainplay.gg/games/rxc-games/",
-            "thumbnail": "https://raw.githubusercontent.com/Ruxiol/rxcgames-web/main/public/chainplaysmall.png"
-        }
-    ]
 
     return (
       <footer
@@ -61,9 +47,9 @@ class Footer extends React.Component {
               <FooterSocial />
             </div>
             <div className="footer-bottom space-between text-xxs invert-order-desktop">
-              <div className="footer-copyright">RXC Games <a href={links[2].url}><img src={links[2].thumbnail} alt='Chainplay'/></a></div>
               <div className="footer-copyright">&copy; 2023 RXCGames, all rights reserved</div>
-              <div className="footer-copyright">Integrate RXCG token via <a href={links[1].url}><img src={links[1].thumbnail} alt='nowpayments'/></a></div>
+              <div className="footer-copyright">Accept RXCG token via NowPayments</div>
+              <div className="footer-copyright">Check details bout RXCG on ChainPlay</div>
             </div>
           </div>
         </div>
@@ -71,7 +57,6 @@ class Footer extends React.Component {
     )
   }
 }
-
 
 Footer.propTypes = propTypes;
 Footer.defaultProps = defaultProps;
