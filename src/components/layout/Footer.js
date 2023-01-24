@@ -33,7 +33,7 @@ class Footer extends React.Component {
     const links = [
         {
             "url": "https://rxcgames.com",
-            "thumbnail": "https://rxcgames.com/static/media/logo.c4003442.svg"
+            "thumbnail": "https://raw.githubusercontent.com/Ruxiol/rxcgames-web/main/public/logo.svg"
         },
         {
             "url": "https://nowpayments.io/supported-coins/rxcg-payments",
