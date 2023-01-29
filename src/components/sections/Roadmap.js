@@ -204,7 +204,6 @@ class Roadmap extends React.Component {
                         <li className="is-checked">Removed all Isaacs backdoors</li>
                         <li className="is-checked">RXC Games Reborn from ash.</li>
                         <li className="is-checked">Payment gateway developement.</li>
-
                       </ul>
                     </div>
                   </div>
@@ -225,7 +224,9 @@ class Roadmap extends React.Component {
                       <ul className="roadmap-item-features-list list-reset text-xs mb-32">
                         <li className="is-checked">Inhouse games developementt.</li>
                         <li>RXCGames Casino Beta</li>
-                        <li>Lottery/Raffle system for RXCG token</li>                     
+                        <li>Lottery/Raffle system for RXCG token</li>
+                        <li>Developement of PVP Battle slot system</li>
+                        <li>Inhouse Poker system</li>
                         <li>Social Media Marketing</li>
                         <li>Community Forum set up</li>
                       </ul>
