@@ -116,7 +116,7 @@ class HeroFull extends React.Component {
             <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
             <p className="m-0 text-sm">
             </p>  
-            RXC Games platform use RXCG as native token.
+            RXC Games platform use RXCG as native token on Binance Smart Chain (BSC)
               <Image
                 src={require('./../../assets/images/hero-image.png')}
                 alt="RXCG Casino"
