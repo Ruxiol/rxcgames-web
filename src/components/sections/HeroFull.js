@@ -116,7 +116,7 @@ class HeroFull extends React.Component {
             <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
             <p className="m-0 text-sm">
             </p>  
-            Supported RXCG BSC wallets - Metamask - Brave - Trustwallet - Binance Defi (recommended)
+            RXCG BSC wallets - <a href="https://www.binance.com/en/support/faq/how-to-use-binance-defi-wallet-and-bridge-funds-cross-chains-ffd4cac0efbd4636b1c4e661a4a82de5" target="_blank" rel="noopener noreferrer">Binance Defi</a> - <a href="https://metamask.io/" target="_blank" rel="noopener noreferrer">Metamask</a> - <a href="https://brave.com/wallet/" target="_blank" rel="noopener noreferrer">Brave</a> - <a href="https://trustwallet.com/" target="_blank" rel="noopener noreferrer">Trustwallet</a>
               <Image
                 src={require('./../../assets/images/hero-image.png')}
                 alt="RXCG Casino"
