@@ -117,6 +117,7 @@ class HeroFull extends React.Component {
             <p className="m-0 text-sm">
             </p>  
             RXC Games platform use RXCG as native token on Binance Smart Chain (BSC)
+            Supported RXCG wallets - Metamask - Brave - Trustwallet - Binance Defi (recommended)
               <Image
                 src={require('./../../assets/images/hero-image.png')}
                 alt="RXCG Casino"
