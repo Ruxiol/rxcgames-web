@@ -116,18 +116,20 @@ class HeroFull extends React.Component {
             <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
             <p className="m-0 text-sm">
             </p>  
-            <Button className="btn-play" tag="a" color="primary" wideMobile href="https://www.binance.com/en/support/faq/how-to-use-binance-defi-wallet-and-bridge-funds-cross-chains-ffd4cac0efbd4636b1c4e661a4a82de5">
-              Binance DeFi
-            </Button>
-            <Button className="btn-play" tag="a" color="primary" wideMobile href="https://metamask.io/">
-              Metamask
-            </Button>
-            <Button className="btn-play" tag="a" color="primary" wideMobile href="https://brave.com/wallet/">
-              Brave
-            </Button>
-            <Button className="btn-play" tag="a" color="primary" wideMobile href="https://trustwallet.com/">
-              Trustwallet
-            </Button>
+                <div className="cta">
+                  <Button className="btn-play" tag="a" color="primary" wideMobile href="https://app.rxcgames.com/">
+                    Games
+                  </Button>
+                  <Button className="btn-play" tag="a" color="primary" wideMobile href="https://rxcgames.com/">
+                    Poker (TBA)
+                  </Button>                                                      
+                  <Button className="btn-play" tag="a" color="primary" wideMobile href="https://rxcgames.com/">
+                    Raffle (TBA)
+                  </Button>                                                        
+                  <Button className="btn-play" tag="a" color="primary" wideMobile href="https://swap.rxcgames.com/">
+                    Swap
+                  </Button>
+                </div>
               <Image
                 src={require('./../../assets/images/hero-image.png')}
                 alt="RXCG Casino"
