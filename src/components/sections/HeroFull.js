@@ -61,10 +61,10 @@ class HeroFull extends React.Component {
                     Games
                   </Button>
                   <Button className="btn-play" tag="a" color="primary" wideMobile href="https://rxcgames.com/">
-                    Poker
+                    Poker (TBA)
                   </Button>                                                      
                   <Button className="btn-play" tag="a" color="primary" wideMobile href="https://rxcgames.com/">
-                    Raffle
+                    Raffle (TBA)
                   </Button>                                                        
                   <Button className="btn-play" tag="a" color="primary" wideMobile href="https://swap.rxcgames.com/">
                     Swap
