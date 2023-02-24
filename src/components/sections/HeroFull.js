@@ -117,6 +117,9 @@ class HeroFull extends React.Component {
             <p className="m-0 text-sm">
             </p>  
             RXCG BSC wallets - <a href="https://www.binance.com/en/support/faq/how-to-use-binance-defi-wallet-and-bridge-funds-cross-chains-ffd4cac0efbd4636b1c4e661a4a82de5" target="_blank" rel="noopener noreferrer">Binance Defi</a> - <a href="https://metamask.io/" target="_blank" rel="noopener noreferrer">Metamask</a> - <a href="https://brave.com/wallet/" target="_blank" rel="noopener noreferrer">Brave</a> - <a href="https://trustwallet.com/" target="_blank" rel="noopener noreferrer">Trustwallet</a>
+                  <Button className="btn-play" tag="a" color="primary" wideMobile href="https://binance.com/">
+                    Binance DeFi
+                  </Button>
               <Image
                 src={require('./../../assets/images/hero-image.png')}
                 alt="RXCG Casino"
