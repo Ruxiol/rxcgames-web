@@ -122,8 +122,8 @@ class HeroFull extends React.Component {
               <Image
                 src={require('./../../assets/images/hero-image.png')}
                 alt="RXCG Casino"
-                width={500}
-                height={504} /> 
+                width={600}
+                height={604} /> 
             </div>
                 <div className="cta">
                   <Button className="btn-play" tag="a" color="primary" wideMobile href="https://www.binance.com/en/support/faq/how-to-use-binance-defi-wallet-and-bridge-funds-cross-chains-ffd4cac0efbd4636b1c4e661a4a82de5/">
