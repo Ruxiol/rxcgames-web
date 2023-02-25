@@ -125,6 +125,20 @@ class HeroFull extends React.Component {
                 width={500}
                 height={504} /> 
             </div>
+                <div className="cta">
+                  <Button className="btn-play" tag="a" color="primary" wideMobile href="https://www.binance.com/en/support/faq/how-to-use-binance-defi-wallet-and-bridge-funds-cross-chains-ffd4cac0efbd4636b1c4e661a4a82de5/">
+                    Binance DeFi
+                  </Button>
+                  <Button className="btn-play" tag="a" color="primary" wideMobile href="https://metamask.io/">
+                    Metamask
+                  </Button>                                                      
+                  <Button className="btn-play" tag="a" color="primary" wideMobile href="https://trustwallet.com/">
+                    Trustwallet
+                  </Button>                                                        
+                  <Button className="btn-play" tag="a" color="primary" wideMobile href="https://brave.com/wallet/">
+                    Brave
+                  </Button>
+                </div> 
           </div>
         </section>
     );
