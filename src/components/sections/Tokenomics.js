@@ -131,9 +131,7 @@ class Tokenomics extends React.Component {
                   <p>Sell Tax: 5% (1% Liquidity, 4% Marketing)</p>
                   <p>Token name: <span>$RXCG</span></p>
                   <p>Total supply: <span>100 000 000</span></p>
-                  <p>Private presale: <span>110 BNB (done)</span></p>
-                  <p>Whitelist presale: <span>400 BNB (done)</span></p>
-                  <p>Network: <span>BSC</span></p>
+                  <p>Network: <span>Binance Smart Chain (BSC)</span></p>
                 </div>
                 <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item"
                   style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
