@@ -3,6 +3,7 @@ import classNames from 'classnames';
 import { SectionProps } from '../../utils/SectionProps';
 import Button from '../elements/Button';
 import Image from '../elements/Image';
+import BankrollBalance from './BankrollBalance/BankrollBalance';
 
 const propTypes = {
   ...SectionProps.types
@@ -112,6 +113,7 @@ class HeroFull extends React.Component {
             </div>
             <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
             <p className="m-0 text-sm">
+              <BankrollBalance />              
             </p>  
               <Image
                 src={require('./../../assets/images/hero-image.png')}
