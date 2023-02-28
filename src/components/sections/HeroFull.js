@@ -3,7 +3,7 @@ import classNames from 'classnames';
 import { SectionProps } from '../../utils/SectionProps';
 import Button from '../elements/Button';
 import Image from '../elements/Image';
-import BankrollBalance from './BankrollBalance/BankrollBalance';
+import BankrollBalance from '../BankrollBalance/BankrollBalance';
 
 const propTypes = {
   ...SectionProps.types
