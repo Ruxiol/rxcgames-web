@@ -3,6 +3,7 @@ import classNames from 'classnames';
 import { SectionProps } from '../../utils/SectionProps';
 import Button from '../elements/Button';
 import Image from '../elements/Image';
+import BankrollBalance from "../components/BankrollBalance/BankrollBalance";
 
 const propTypes = {
   ...SectionProps.types
@@ -106,6 +107,7 @@ class HeroFull extends React.Component {
                         height={48} />
                     </a>
                   </div>
+              <BankrollBalance /> {/* <-- Add this line */}
                   </div>
                 </div>
               </div>
