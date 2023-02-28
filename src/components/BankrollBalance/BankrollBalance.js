@@ -44,7 +44,7 @@ function BankrollBalance() {
     return <div>Loading balance...</div>;
   }
 
-  return <div>Our bankroll amount: {balance} RXC</div>;
+  return <div>Bankroll amount: {balance} RXCG</div>;
 }
 
 export default BankrollBalance;
