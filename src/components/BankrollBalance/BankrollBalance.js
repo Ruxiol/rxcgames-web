@@ -24,7 +24,8 @@ function BankrollBalance() {
   async function getBalance() {
     const balance = await tokenContract.methods.balanceOf(bankrollAddress).call();
     const balanceInEth = web3.utils.fromWei(balance, "ether");
-    setBalance(balanceInEth);
+    const formattedBalance = parseFloat(balanceInEth).toLocaleString('en-US', {maximumFractionDigits: 0})
+    setBalance(formattedBalance);
   }
 
   useEffect(() => {
