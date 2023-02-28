@@ -44,7 +44,14 @@ function BankrollBalance() {
     return <div>Loading balance...</div>;
   }
 
-  return <div>Bankroll amount: {balance} RXCG</div>;
+  return (
+    <div>
+      Our bankroll amount:{" "}
+      <a href={`https://bscscan.com/token/tokenholderchart/${tokenAddress}`}>
+        {Math.floor(parseFloat(balance)).toLocaleString()} RXCG
+      </a>
+    </div>
+  );
 }
 
 export default BankrollBalance;
