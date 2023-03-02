@@ -146,7 +146,7 @@ class Roadmap extends React.Component {
                     <div className="roadmap-item-header pb-24 mb-24">
                       <div className="roadmap-item-price mb-4">
                         <span className="roadmap-item-price-currency h2">
-                          Q1 2022
+                          Q1 - Q4 2022
                         </span>
                       </div>
                     </div>
@@ -157,29 +157,6 @@ class Roadmap extends React.Component {
                         <li className="is-checked">Staking Smart Contract</li>
                         <li className="is-checked">2Way Swap Coin to Token.</li>
                         <li className="is-checked">NowPayments listing.</li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div className="tiles-item reveal-from-bottom" data-reveal-delay="400">
-                <div className="tiles-item-inner has-shadow">
-                  <div className="roadmap-item-content">
-                    <div className="roadmap-item-header pb-24 mb-24">
-                      <div className="roadmap-item-price mb-4">
-                        <span className="roadmap-item-price-currency h2">
-                          Q2 & Q3 2022  
-                        </span>
-                      </div>
-                    </div>
-                    <div className="roadmap-item-features mb-40">
-                      <ul className="roadmap-item-features-list list-reset text-xs mb-32">
-                        <li className="is-checked">a.k.a DarkAge for RXC Games team</li>                     
-                        <li className="is-checked">We have found out that "our" main dev was stealing from us.</li>
-                        <li className="is-checked">His name is Ryan West, pretending to be Isaac Kohen!</li>
-                        <li className="is-checked">Our team gave him aprox 80.000$ of team funds for developing.</li>
-                        <li className="is-checked">Then he stole hefty amount of token funds from main Bankroll and LP..</li>
                       </ul>
                     </div>
                   </div>
