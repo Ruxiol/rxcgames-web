@@ -178,7 +178,6 @@ class Roadmap extends React.Component {
                         <li className="is-checked">Crypto bear market</li>
                         <li className="is-checked">RXC Games team Reborn</li>
                         <li className="is-checked">Complete rehaul of old codbase</li>
-                        <li className="is-checked">Removed all Isaacs backdoors</li>
                         <li className="is-checked">RXC Games Reborn from ash.</li>
                         <li className="is-checked">Payment gateway developement.</li>
                       </ul>
@@ -199,7 +198,7 @@ class Roadmap extends React.Component {
                     </div>
                     <div className="roadmap-item-features mb-40">
                       <ul className="roadmap-item-features-list list-reset text-xs mb-32">
-                        <li className="is-checked">Inhouse games developementt.</li>
+                        <li className="is-checked">Inhouse games developement.</li>
                         <li>RXCGames Casino Beta</li>
                         <li>Lottery/Raffle system for RXCG token</li>
                         <li>Developement of PVP Battle slot system</li>
