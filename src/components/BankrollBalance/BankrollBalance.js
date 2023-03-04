@@ -24,8 +24,7 @@ function BankrollBalance() {
   async function getBalance() {
     const balance = await tokenContract.methods.balanceOf(bankrollAddress).call();
     const balanceInEth = web3.utils.fromWei(balance, "ether");
-    const formattedBalance = parseFloat(balanceInEth).toLocaleString('en-US', {maximumFractionDigits: 0})
-    setBalance(formattedBalance);
+    setBalance(balanceInEth);
   }
 
   useEffect(() => {
@@ -44,7 +43,20 @@ function BankrollBalance() {
     return <div>Loading balance...</div>;
   }
 
-  return <div>Bankroll amount: {balance} RXCG</div>;
+  return (
+    <div>
+      Our bankroll amount:{" "}
+      <div style={{ display: "inline" }}>{balance} RXCG</div>
+      {"  "}
+      <a
+        href={`https://bscscan.com/address/${bankrollAddress}`}
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Verify
+      </a>
+    </div>
+  );
 }
 
 export default BankrollBalance;
