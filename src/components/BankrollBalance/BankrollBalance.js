@@ -43,15 +43,14 @@ function BankrollBalance() {
     return <div>Loading balance...</div>;
   }
 
-  const balanceInRXC = Number(balance).toFixed(0).toString();
-  const bscscanLink = `https://bscscan.com/address/${bankrollAddress}`;
+  const formattedBalance = new Intl.NumberFormat('en-US', { 
+    minimumFractionDigits: 0, 
+    maximumFractionDigits: 0 
+  }).format(balance);
 
   return (
     <div>
-      Our bankroll amount: {balanceInRXC} RXCG{" "}
-      <a href={bscscanLink} target="_blank" rel="noopener noreferrer">
-        Verify
-      </a>
+      <p>Our bankroll amount: {formattedBalance} RXCG <a href={`https://bscscan.com/address/${bankrollAddress}`} target="_blank" rel="noopener noreferrer">Verify</a></p>
     </div>
   );
 }
