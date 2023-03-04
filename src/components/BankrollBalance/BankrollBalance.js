@@ -43,16 +43,13 @@ function BankrollBalance() {
     return <div>Loading balance...</div>;
   }
 
+  const balanceInRXC = Number(balance).toFixed(0).toString();
+  const bscscanLink = `https://bscscan.com/address/${bankrollAddress}`;
+
   return (
     <div>
-      Our bankroll amount:{" "}
-      <div style={{ display: "inline" }}>{balance} RXCG</div>
-      {"  "}
-      <a
-        href={`https://bscscan.com/address/${bankrollAddress}`}
-        target="_blank"
-        rel="noopener noreferrer"
-      >
+      Our bankroll amount: {balanceInRXC} RXCG{" "}
+      <a href={bscscanLink} target="_blank" rel="noopener noreferrer">
         Verify
       </a>
     </div>
