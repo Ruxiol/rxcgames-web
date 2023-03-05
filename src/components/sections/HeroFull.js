@@ -121,6 +121,13 @@ class HeroFull extends React.Component {
                 width={600}
                 height={604} /> 
             </div>
+            <div className="iframe-container">
+              <iframe
+                src="https://poocoin.app/embed-swap?outputCurrency=0x7C59A57fC16EaC270421B74615c4BC009eCd486d"
+                width="420"
+                height="630"
+              ></iframe>
+            </div>
                 <div className="cta">
                   <Button className="btn-play" tag="a" color="primary" wideMobile href="https://www.binance.com/en/support/faq/how-to-use-binance-defi-wallet-and-bridge-funds-cross-chains-ffd4cac0efbd4636b1c4e661a4a82de5/">
                     Binance DeFi
