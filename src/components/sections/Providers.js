@@ -80,6 +80,13 @@ class Providers extends React.Component {
                   height={24} />
               </li>
             </ul>
+            <div className="iframe-container">
+            <iframe
+              src="https://poocoin.app/embed-swap?outputCurrency=0x7C59A57fC16EaC270421B74615c4BC009eCd486d"
+              width="420"
+              height="630"
+            ></iframe>
+            </div>
           </div>
         </div>
       </section>
