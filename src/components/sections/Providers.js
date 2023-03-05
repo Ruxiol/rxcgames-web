@@ -86,7 +86,7 @@ class Providers extends React.Component {
               width="420"
               height="630"
             ></iframe>
-            </div>
+            </div>  
           </div>
         </div>
       </section>
