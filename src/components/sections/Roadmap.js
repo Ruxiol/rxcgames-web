@@ -191,7 +191,7 @@ class Roadmap extends React.Component {
                     <div className="roadmap-item-header pb-24 mb-24">
                       <div className="roadmap-item-price mb-4">
                         <span className="roadmap-item-price-currency h2">
-                          Q1 & Q2 2023
+                          2023
                         </span>
                       </div>
                     </div>
@@ -199,11 +199,11 @@ class Roadmap extends React.Component {
                       <ul className="roadmap-item-features-list list-reset text-xs mb-32">
                         <li className="is-checked">Inhouse games developement.</li>
                         <li>RXCGames Casino Beta</li>
+                        <li>MOONS Web browser game developing</li>
                         <li>Lottery/Raffle system for RXCG token</li>
                         <li>Developement of PVP Battle slot system</li>
                         <li>Inhouse Poker system</li>
-                        <li>Social Media Marketing</li>
-                        <li>Community Forum set up</li>
+
                       </ul>
                     </div>
                   </div>
@@ -216,13 +216,15 @@ class Roadmap extends React.Component {
                     <div className="roadmap-item-header pb-24 mb-24">
                       <div className="roadmap-item-price mb-4">
                         <span className="roadmap-item-price-currency h2">
-                          Q3 & Q4 2023
+                          2024
                         </span>
                       </div>
                     </div>
                     <div className="roadmap-item-features mb-40">
                       <ul className="roadmap-item-features-list list-reset text-xs mb-32">
                         <li>Set up for DAO community</li>
+                        <li>Social Media Marketing</li>
+                        <li>Community Forum set up</li>
                         <li>DAO community</li>                        
                         <li>Managed by DAO</li>
                         <li>Additional marketings (if voted by DAO)</li>
