@@ -58,15 +58,15 @@ class HeroFull extends React.Component {
                   • <a className="no-underline" href={require("./../../assets/RXCGWhitepaper.pdf")} download="Whitepaper">RXCG Whitepaper</a> •
                 </p>
                 <div className="cta">
+                  <Button className="btn-play" tag="a" color="primary" wideMobile href="https://moons.rxcgames.com/">
+                    Moons
+                  </Button>                                                      
                   <Button className="btn-play" tag="a" color="primary" wideMobile href="https://app.rxcgames.com/">
                     Games
                   </Button>
                   <Button className="btn-play" tag="a" color="primary" wideMobile href="https://stake.rxcgames.com/">
                     Stake
                   </Button> 
-                  <Button className="btn-play" tag="a" color="primary" wideMobile href="https://swap.rxcgames.com/">
-                    Swap
-                  </Button>
                 </div>
               </div>
               <div className="container-sm pt-24 reveal-from-bottom">
