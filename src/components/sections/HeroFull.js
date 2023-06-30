@@ -82,11 +82,17 @@ class HeroFull extends React.Component {
                   </div>
                   <div className="pt-16 pl-8 pr-24 cursor-pointer">
                     <a target="_blank" href="https://twitter.com/rxc_games">
+                     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
                       <Image
                         src={require('./../../assets/images/links/twitter.svg')}
                         alt="RXCG Twitter"
                         width={48}
-                        height={48} />
+                        height={48} 
+                      />
+                      <span style={{ marginTop: '0.5rem', fontSize: '0.875rem', fontWeight: 'bold' }}>
+                        Twitter
+                      </span>
+                     </div> 
                     </a>
                   </div>
                   <div className="pt-16 pl-8 pr-24 cursor-pointer">
