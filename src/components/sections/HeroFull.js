@@ -58,9 +58,6 @@ class HeroFull extends React.Component {
                   • <a className="no-underline" href={require("./../../assets/RXCGWhitepaper.pdf")} download="Whitepaper">RXCG Whitepaper</a> •
                 </p>
                 <div className="cta">
-                  <Button className="btn-play" tag="a" color="primary" wideMobile href="https://moons.rxcgames.com/">
-                    Moons
-                  </Button>                                                      
                   <Button className="btn-play" tag="a" color="primary" wideMobile href="https://app.rxcgames.com/">
                     Games
                   </Button>
